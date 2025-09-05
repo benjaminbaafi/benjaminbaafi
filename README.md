@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/benjamin-baafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin baafi" height="30" width="40" /></a> 
   <a href="https://kaggle.com/baafi-benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="baafi benjamin" height="30" width="40" /></a> 
   <a href="https://medium.com/@baafibenjaminyaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baafibenjaminyaw" height="30" width="40" /></a> 
-  <a href="https://huggingface.co/benjaminbaafi" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="40" /></a> 
+  <a href="https://huggingface.co/benjaminbaafi" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" height="30" width="40" /></a> 
   <a href="https://paperswithcode.com/user/benjaminbaafi" target="blank"><img align="center" src="https://paperswithcode.com/static/logo.png" alt="papers with code" height="30" width="40" /></a> 
 </p> 
 
@@ -53,64 +53,64 @@
 
 ### 🤖 Core AI/ML Frameworks  
 <p align="left"> 
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> 
-  <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="openai" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" /></a>
+  <a href="https://keras.io/" target="_blank"><img alt="Keras" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img alt="scikit-learn" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img alt="Hugging Face" width="40" height="40" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" /></a>
+  <a href="https://openai.com/" target="_blank"><img alt="OpenAI" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" /></a>
 </p>
 
 ### 🖼️ Computer Vision & Deep Learning  
 <p align="left"> 
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://albumentations.ai/" target="_blank"><img src="https://albumentations.ai/docs/images/logo.png" alt="albumentations" width="40" height="40"/> </a> 
-  <a href="https://github.com/ultralytics/yolov5" target="_blank"><img src="https://github.com/ultralytics/assets/raw/main/logo/Ultralytics_Logotype_Original.svg" alt="yolo" width="40" height="40"/> </a> 
-  <a href="https://detectron2.readthedocs.io/" target="_blank"><img src="https://github.com/facebookresearch/detectron2/raw/main/.github/Detectron2-Logo-Horz.png" alt="detectron2" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" /></a>
+  <a href="https://albumentations.ai/" target="_blank"><img alt="Albumentations" width="40" height="40" src="https://albumentations.ai/docs/images/logo.png" /></a>
+  <a href="https://github.com/ultralytics/yolov5" target="_blank"><img alt="YOLO/Ultralytics" width="40" height="40" src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" /></a>
+  <a href="https://detectron2.readthedocs.io/" target="_blank"><img alt="Detectron2" width="120" src="https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.png" /></a>
 </p>
 
 ### 💾 Data Science & Analytics  
 <p align="left"> 
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://plotly.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /></a>
+  <a href="https://numpy.org/" target="_blank"><img alt="NumPy" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img alt="Seaborn" width="40" height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /></a>
+  <a href="https://plotly.com/" target="_blank"><img alt="Plotly" width="40" height="40" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" /></a>
 </p>
 
 ### 💻 Programming & Core Tech  
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"><img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img alt="Colab" width="40" height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img alt="C#" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></a>
 </p>
 
 ### ☁️ MLOps & Deployment  
 <p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://mlflow.org/" target="_blank"><img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/> </a> 
-  <a href="https://wandb.ai/" target="_blank"><img src="https://wandb.ai/site/static/logo.svg" alt="wandb" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img alt="Kubernetes" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img alt="GCP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" /></a>
+  <a href="https://mlflow.org/" target="_blank"><img alt="MLflow" height="40" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" /></a>
+  <a href="https://wandb.ai/" target="_blank"><img alt="Weights & Biases" height="40" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" /></a>
 </p>
 
 ### 🗄️ Databases & Big Data  
 <p align="left"> 
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"><img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://redis.io" target="_blank"><img alt="Redis" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" /></a>
+  <a href="https://www.elastic.co" target="_blank"><img alt="Elasticsearch" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" /></a>
 </p>
 
 ### 🛠️ Additional Tools  
 <p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img alt="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
+  <a href="https://www.nginx.com" target="_blank"><img alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /></a>
 </p>
 
 ---
