@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baafi Benjamin Yaw</h1>
 <h3 align="center">A passionate Data Science and AI Engineer from Ghana 🇬🇭 | Transforming Ideas into Intelligent Solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"> -->
+
+<img align="right" alt="AI Engineering" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363441474b524a47385357414955533750532f6b6f6d6d2f636f64696e672d667265616b2e676966">
+<!-- <p align="left"> -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=benjaminbaafi&label=Profile%20views&color=00d9ff&style=flat" alt="Profile Views" /> 
   <img src="https://img.shields.io/github/followers/benjaminbaafi?label=Followers&style=social" alt="GitHub Followers" />
